@@ -70,4 +70,28 @@ To access StaySync, users must have:
 Depending on your assigned role, you may have access to different features within the system. Contact your system administrator if you require additional permissions.
 
 * Warnings highlight actions that could affect hotel data or operations.
+## Creating an Account
+
+A StaySync account is required before you can access the system.
+
+Accounts are created by a Hotel Administrator or System Administrator.
+
+### To create a new user account:
+
+1. Sign in as an Administrator.
+2. Select **Administration** from the main menu.
+3. Click **Users**.
+4. Select **Create New User**.
+5. Enter the user's information:
+
+   * Full Name
+   * Email Address
+   * Job Title
+   * Department
+6. Assign an appropriate user role.
+7. Click **Create User**.
+
+The new user will receive an email containing login instructions and a temporary password.
+
+> **Note:** Users should change their temporary password after signing in for the first time.
 
