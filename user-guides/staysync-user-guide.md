@@ -109,6 +109,13 @@ If your credentials are correct, the StaySync Dashboard will open, where you can
 > **Note:** If you have forgotten your password, click **Forgot Password** and follow the instructions sent to your registered email address.
 
 > **Tip:** For security, always sign out of StaySync before leaving a shared computer.
+## Dashboard Overview
+
+The **StaySync Dashboard** is the main navigation hub of the application. It provides quick access to the system's core features, allowing users to efficiently manage daily hotel operations.
+
+From the dashboard, users can access reservations, guest check-ins and check-outs, room availability, payment processing, housekeeping status, and operational reports. The information displayed may vary depending on the user's assigned role and permissions.
+
+The dashboard is designed to provide an organized view of hotel activities, helping staff locate information quickly and complete tasks with minimal effort.
 
 > **Note:** Users should change their temporary password after signing in for the first time.
 
