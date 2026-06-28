@@ -92,6 +92,23 @@ Accounts are created by a Hotel Administrator or System Administrator.
 7. Click **Create User**.
 
 The new user will receive an email containing login instructions and a temporary password.
+## Logging In
+
+Before you can use StaySync, you must log in with your assigned account credentials.
+
+To log in:
+
+1. Open your preferred web browser.
+2. Navigate to the StaySync login page.
+3. Enter your registered email address or username.
+4. Enter your password.
+5. Click **Sign In**.
+
+If your credentials are correct, the StaySync Dashboard will open, where you can access reservations, guest management, room inventory, and reporting tools based on your user role.
+
+> **Note:** If you have forgotten your password, click **Forgot Password** and follow the instructions sent to your registered email address.
+
+> **Tip:** For security, always sign out of StaySync before leaving a shared computer.
 
 > **Note:** Users should change their temporary password after signing in for the first time.
 
