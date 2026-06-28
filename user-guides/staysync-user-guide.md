@@ -2,26 +2,40 @@
 
 ## Introduction
 
-## System Requirements
+Welcome to the StaySync User Guide.
 
-## Creating an Account
+StaySync is a cloud-based hotel management system designed to simplify daily hotel operations. It enables hotel staff to manage reservations, guest check-ins, room assignments, billing, housekeeping, and reporting through a single, easy-to-use platform.
 
-## Logging In
+This guide provides step-by-step instructions for using StaySync effectively. Whether you are a receptionist, hotel manager, cashier, or housekeeping supervisor, this document will help you perform common tasks quickly and accurately.
 
-## Dashboard Overview
+## Intended Audience
 
-## Managing Reservations
+This guide is intended for:
 
-## Guest Check-In
+* Front Desk Receptionists
+* Hotel Managers
+* Cashiers
+* Housekeeping Supervisors
+* Hotel Administrators
 
-## Guest Check-Out
+## Purpose
 
-## Payment Processing
+The purpose of this guide is to help users:
 
-## Reports
+* Navigate the StaySync interface.
+* Manage guest reservations.
+* Check guests in and out.
+* Process payments.
+* Generate operational reports.
+* Resolve common issues.
 
-## Troubleshooting
+## Document Conventions
 
-## Frequently Asked Questions
+Throughout this guide:
 
-## Contact Support
+* **Bold** text indicates buttons, menus, or important options.
+* *Italic* text is used for emphasis.
+* Numbered lists describe procedures.
+* Notes provide additional information or useful tips.
+* Warnings highlight actions that could affect hotel data or operations.
+
