@@ -36,6 +36,38 @@ Throughout this guide:
 * **Bold** text indicates buttons, menus, or important options.
 * *Italic* text is used for emphasis.
 * Numbered lists describe procedures.
-* Notes provide additional information or useful tips.
+* Notes provide additional information or useful tips.## System Requirements
+
+Before using StaySync, ensure your system meets the following requirements.
+
+### Supported Devices
+
+* Desktop computer or laptop
+* Tablet (limited functionality)
+* Smartphone (mobile interface)
+
+### Supported Browsers
+
+* Google Chrome (latest version)
+* Microsoft Edge (latest version)
+* Mozilla Firefox (latest version)
+* Safari (latest version)
+
+### Internet Connection
+
+StaySync is a cloud-based application and requires a stable internet connection to access hotel data and synchronize updates.
+
+### User Account
+
+To access StaySync, users must have:
+
+* A registered user account.
+* A valid username or email address.
+* A password assigned by the system administrator.
+
+### User Permissions
+
+Depending on your assigned role, you may have access to different features within the system. Contact your system administrator if you require additional permissions.
+
 * Warnings highlight actions that could affect hotel data or operations.
 
