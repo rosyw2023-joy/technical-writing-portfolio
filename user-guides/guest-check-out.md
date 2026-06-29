@@ -67,5 +67,21 @@ After a successful payment:
 * The reservation is ready for the check-out process.
 
 > **Note:** Verify the final bill with the guest before processing the payment.
+# Room Management Guide
+
+## Overview
+
+The Room Management feature enables housekeeping staff to monitor room conditions and ensure that all guest rooms meet the hotel's quality standards. It allows staff to update room status, respond to guest requests, report maintenance issues, and prepare rooms for new arrivals. Proper room management helps maintain guest comfort, safety, and operational efficiency.
+
+## Prerequisites
+
+Before updating a room's status in StaySync, ensure that:
+
+* The room has been thoroughly cleaned.
+* Clean bed linens and pillowcases have been provided.
+* Fresh towels have been placed in the bathroom.
+* Essential toiletries have been replenished.
+* Bathroom slippers and other guest amenities are available.
+* Any maintenance issues have been reported or resolved before marking the room as **Available**.
 
 > **Tip:** Always issue a receipt immediately after payment to maintain accurate financial records and improve the guest experience.
